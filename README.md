@@ -1,0 +1,2 @@
+# PySCS
+SCS for Python
